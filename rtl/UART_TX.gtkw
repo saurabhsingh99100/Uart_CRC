@@ -1,0 +1,40 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Wed Feb  3 07:27:03 2021
+[*]
+[dumpfile] "/home/frozenalpha/Git/Wishbone-UART/rtl/uart/out_tx.vcd"
+[dumpfile_mtime] "Wed Feb  3 07:08:34 2021"
+[dumpfile_size] 563017
+[savefile] "/home/frozenalpha/Git/Wishbone-UART/rtl/uart/UART_TX.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -40 29
+*-21.462675 15808000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Uart_Tx_tb.
+[sst_width] 197
+[signals_width] 142
+[sst_expanded] 1
+[sst_vpaned_height] 149
+@28
+Uart_Tx_tb.clk_master
+Uart_Tx_tb.tick
+Uart_Tx_tb.data_i[7:0]
+Uart_Tx_tb.data_we_i
+@29
+Uart_Tx_tb.tx_en
+@200
+-
+-
+-
+@28
+Uart_Tx_tb.utx.data[7:0]
+Uart_Tx_tb.utx.state
+Uart_Tx_tb.utx.data_valid
+Uart_Tx_tb.utx.start_bit_cond
+Uart_Tx_tb.utx.data_bit_cond
+Uart_Tx_tb.utx.stop_bit_cond
+Uart_Tx_tb.utx.tx_done
+[color] 1
+Uart_Tx_tb.utx.tx_o
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,44 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Wed Feb  3 06:46:30 2021
+[*]
+[dumpfile] "/home/frozenalpha/Git/Wishbone-UART/rtl/uart/out_rx.vcd"
+[dumpfile_mtime] "Wed Feb  3 06:18:55 2021"
+[dumpfile_size] 633288
+[savefile] "/home/frozenalpha/Git/Wishbone-UART/rtl/uart/UART_RX.gtkw"
+[timestart] 0
+[size] 1600 871
+[pos] 1365 -349
+*-22.924374 6341000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Uart_Rx_tb.
+[treeopen] Uart_Rx_tb.urx.
+[sst_width] 197
+[signals_width] 142
+[sst_expanded] 1
+[sst_vpaned_height] 243
+@28
+Uart_Rx_tb.clk_master
+Uart_Rx_tb.chng
+Uart_Rx_tb.tick
+[color] 3
+Uart_Rx_tb.rx_i
+Uart_Rx_tb.rx_en
+@200
+-
+-
+-
+@28
+Uart_Rx_tb.urx.state
+@22
+Uart_Rx_tb.urx.bitcount[3:0]
+Uart_Rx_tb.urx.counter[3:0]
+@28
+Uart_Rx_tb.urx.start_bit_cond
+Uart_Rx_tb.urx.data_bit_cond
+Uart_Rx_tb.urx.stop_bit_cond
+[color] 2
+Uart_Rx_tb.urx.data_o[7:0]
+[color] 1
+Uart_Rx_tb.urx.rx_done
+[pattern_trace] 1
+[pattern_trace] 0
